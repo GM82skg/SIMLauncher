@@ -1,4 +1,4 @@
-# SimLauncher
+# SIMLauncher
 
 **One-click launcher for your entire sim racing setup.**
 
