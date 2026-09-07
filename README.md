@@ -6,7 +6,7 @@ SimLauncher starts your game, voice spotter, force feedback tuner, dashboard ove
 
 No more opening five programs by hand before every session.
 
-![SimLauncher screenshot](docs/screenshot.png)
+![SimLauncher screenshot](/screenshot.png)
 
 ---
 
